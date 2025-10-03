@@ -1,0 +1,88 @@
+
+Host Name:                     ALEJANDRO
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              HP
+Registered Organization:       HP
+Product ID:                    00342-22155-54395-AAOEM
+Original Install Date:         4/16/2025, 7:15:42 PM
+System Boot Time:              10/3/2025, 12:34:39 PM
+System Manufacturer:           HP
+System Model:                  Victus by HP Gaming Laptop 15-fb0xxx
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3301 Mhz
+BIOS Version:                  AMI F.24, 4/9/2025
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:         15,710 MB
+Available Physical Memory:     6,585 MB
+Virtual Memory: Max Size:      26,462 MB
+Virtual Memory: Available:     14,984 MB
+Virtual Memory: In Use:        11,478 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\ALEJANDRO
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5064401
+                               [02]: KB5065426
+                               [03]: KB5064531
+Network Card(s):               6 NIC(s) Installed.
+                               [01]: VirtualBox Host-Only Ethernet Adapter
+                                     Connection Name: Ethernet 2
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.56.1
+                                     [02]: fe80::7022:95ff:1a44:6547
+                               [02]: Realtek Gaming GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [03]: VMware Virtual Ethernet Adapter for VMnet1
+                                     Connection Name: VMware Network Adapter VMnet1
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.91.254
+                                     IP address(es)
+                                     [01]: 192.168.91.1
+                                     [02]: fe80::495f:e5da:19f1:e115
+                               [04]: MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.102.20.20
+                                     IP address(es)
+                                     [01]: 10.248.94.37
+                                     [02]: fe80::5943:20ab:cc36:a347
+                               [05]: TAP-Windows Adapter V9
+                                     Connection Name: McAfee VPN
+                                     Status:          Media disconnected
+                               [06]: VMware Virtual Ethernet Adapter for VMnet8
+                                     Connection Name: VMware Network Adapter VMnet8
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.218.254
+                                     IP address(es)
+                                     [01]: 192.168.218.1
+                                     [02]: fe80::3277:8ed8:c623:999c
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+Alejandro
